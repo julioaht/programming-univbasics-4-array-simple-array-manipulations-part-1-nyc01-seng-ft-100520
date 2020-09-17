@@ -12,7 +12,6 @@ end
 
 def pop_with_args(array)
   array(2).pop = new_array
-  new_array
 
   end
 
